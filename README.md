@@ -1,5 +1,5 @@
 # 💫 About Me:
- Soy Estudiante de Desarrollo en Software, apasionada por la programación y la tecnología.<br>Actualmente estoy formándome en la área de DS.<br>Me interesa mejorar mis capacidades y habilidades de programación y desarrollo web; me <br>gusta aprender diferentes cosas acerca de la tecnología.<br>Estoy trabajando en proyectos para poner en practica mis conocimientos. Mi objetivo mas grande<br>es convertirme en un desarrollador de software profesional.
+ Soy Estudiante de Desarrollo en Software, apasionada por la programación y la tecnología.<br>Actualmente estoy formándome en la área de Desarrollo de Software.<br>Me interesa mejorar mis capacidades y habilidades de programación y desarrollo web; me <br>gusta aprender diferentes cosas acerca de la tecnología.<br>Estoy trabajando en proyectos para poner en practica mis conocimientos. Mi objetivo mas grande<br>es convertirme en un desarrollador de software profesional.
 
 
 ## 🌐 Socials:
